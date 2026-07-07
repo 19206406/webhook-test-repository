@@ -5,5 +5,6 @@ def greet(name):
   print('Hi, good night')
   age = 20 
   print(f'My age is {age}')
+  print('change my name')
 
 greet('Sebastian')
